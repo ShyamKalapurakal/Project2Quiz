@@ -1,28 +1,28 @@
 var questionBank = [
     {
-        question : 'Eritrea, which became the 182nd member of the UN in 1993, is in the continent of?',
-        option : ['Asia','Africa','Europe','Australia'],
-        answer : 'Africa'
+        question : 'Which of the first web browser invented in 1990?',
+        option : ['Internet Explorer','Mosaic','Mozilla','Nexus'],
+        answer : 'Nexus'
     },
     {
-        question : 'Garampani sanctuary is located at?',
-        option : ['Junagarh, Gujarat','Diphu, Assam','Kohima, Nagaland','Gangtok, Sikkim'],
-        answer : 'Diphu, Assam'
+        question : 'Which of the following programming language is used to create programs like applets?',
+        option : ['COBOL','C Language','Java','BASIC'],
+        answer : 'Java'
     },
     {
-        question : 'For which of the following disciplines is Nobel Prize awarded?',
-        option : ['Physics and Chemistry','Physiology or Medicine','Literature, Peace and Economics','All of the above'],
-        answer : 'All of the above'
+        question : 'Firstcomputer virus is known as?',
+        option : ['Rabbit','Creeper Virus','Elk Cloner','SCA Virus'],
+        answer : 'Creeper Virus'
     },
     {
-        question : 'Hitler party which came into power in 1933 is known as?',
-        option : ['Labour Party','Nazi Party','Ku-Klux-Klan','Democratic Party'],
-        answer : 'Nazi Party'
+        question : 'Which one programming language is exclusively used fo artifical intelligence?',
+        option : ['C','Java','J2EE','Prolog'],
+        answer : 'Prolog'
     },
     {
-        question : 'First human heart transplant operation conducted by Dr. Christiaan Barnard on Louis Washkansky, was conducted in?',
-        option : ['1967','1968','1958','1922'],
-        answer : '1967'
+        question : 'Which of the following is not a database management software?',
+        option : ['MySQL','Oracle','Sybase','COBOL'],
+        answer : 'COBOL'
     }
     
 ]
